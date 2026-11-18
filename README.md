@@ -1,27 +1,8 @@
-How to Promote a Small Business Using Social Media
+My Small Business Blog
+This is my blog about promoting a small business using social media. I made this because during our Grade 12 activity, our group tried selling food products and we used Facebook to promote them.
 
-About the Project
-This is a simple HTML blog website about how social media can help small businesses promote their products, reach more customers, and connect with people.
+In this website, I shared some tips about promoting products, getting customers, and how social media can help a small business. I also included some pictures from our activity and shared our experience.
 
-This project is based on our Grade 12 school activity, where our group sold food products and used Facebook to promote them.
+I only used HTML to make this website. The `images` folder contains the pictures, and the `screenshots` folder contains screenshots of my website.
 
-Website Sections
-- Home
-- About
-- Tips
-- Our Experience
-- Conclusion
-
-Technologies Used
-- HTML5
-
-Project Files
-- `index.html` – Main webpage
-- `images/` – Contains the product, customers, and team pictures
-- `screenshots/` – Contains screenshots of the website
-
-#Author
-Jhay A. Lumacang
-
-Purpose
-Created as part of a school project to practice basic HTML structure, Git, and GitHub.
+Made by Jhay A. Lumacang
